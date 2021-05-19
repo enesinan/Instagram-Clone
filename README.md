@@ -6,3 +6,4 @@ instagram clone
 # ⚡ LIVE  
 * <a href="https://instagram-clone-65069.web.app">To check out the live demo of this app</a></br> </br> 
 
+# ABOUT 
