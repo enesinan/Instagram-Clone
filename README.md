@@ -7,3 +7,9 @@ instagram clone
 * <a href="https://instagram-clone-65069.web.app">To check out the live demo of this app</a></br> </br> 
 
 # ABOUT 
+
+👉 Building a Instagram Clone App 💻
+👉 Deploying a React app with Firebase Hosting 🌐
+👉 How to handle authentication with Firebase 🔑
+👉 How to upload images to Firebase Storage and use them on your site! 🖥️
+👉 Real-time database with Firebase’s Firestore 🔥
