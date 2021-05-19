@@ -21,3 +21,4 @@ instagram clone
 # EXAMPLE
 
 # CONTRIBUTION
+Feel free to contribute by adding new templates to this project.
