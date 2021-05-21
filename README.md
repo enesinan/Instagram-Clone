@@ -20,6 +20,8 @@ This is a instagram clone. You can sign in, sign up, upload image, make comment 
 
 # EXAMPLE
 
+![5](https://user-images.githubusercontent.com/72499839/119111311-9fa9d680-ba2b-11eb-8fc4-ed4fb96fb219.png)
+
 
 
 
