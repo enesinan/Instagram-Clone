@@ -20,6 +20,9 @@ This is a instagram clone. You can sign in, sign up, upload image, make comment 
 
 # EXAMPLE
 
+
+
+
 # CONTRIBUTION
 Feel free to contribute by adding new templates to this project.
 
