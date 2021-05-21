@@ -24,6 +24,8 @@ This is a instagram clone. You can sign in, sign up, upload image, make comment 
 
 ![6](https://user-images.githubusercontent.com/72499839/119111516-cff17500-ba2b-11eb-85a4-630dbe68393b.png)
 
+![7](https://user-images.githubusercontent.com/72499839/119111606-e3044500-ba2b-11eb-8188-0a606894f22b.png)
+
 
 
 # CONTRIBUTION
