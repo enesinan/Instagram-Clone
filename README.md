@@ -28,6 +28,8 @@ This is a instagram clone. You can sign in, sign up, upload image, make comment 
 
 ![8](https://user-images.githubusercontent.com/72499839/119111697-fa433280-ba2b-11eb-9409-6489e95e5610.png)
 
+![9](https://user-images.githubusercontent.com/72499839/119111743-08914e80-ba2c-11eb-8aa3-44339185eec2.png)
+
 
 # CONTRIBUTION
 Feel free to contribute by adding new templates to this project.
